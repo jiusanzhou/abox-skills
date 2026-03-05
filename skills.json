@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "updated": "2026-03-06",
+  "categories": [
+    {
+      "id": "content-ops",
+      "name": "Content & Research",
+      "icon": "📰",
+      "skills": [
+        {"id": "hn-curator", "name": "HN Curator", "description": "Curate top AI content from Hacker News", "tags": ["news", "ai", "curation"]},
+        {"id": "paper-summarizer", "name": "Paper Summarizer", "description": "Summarize arXiv papers into actionable insights", "tags": ["research", "papers", "summarization"]},
+        {"id": "news-digest", "name": "News Digest", "description": "Generate daily news digests for any topic", "tags": ["news", "digest", "email"]},
+        {"id": "rss-monitor", "name": "RSS Monitor", "description": "Monitor RSS feeds and detect notable content", "tags": ["rss", "monitoring", "feeds"]}
+      ]
+    },
+    {
+      "id": "dev",
+      "name": "Development",
+      "icon": "💻",
+      "skills": [
+        {"id": "code-reviewer", "name": "Code Reviewer", "description": "Automated code review for correctness, security, and style", "tags": ["code-review", "security", "quality"]},
+        {"id": "pr-description", "name": "PR Description", "description": "Auto-generate PR descriptions from diffs", "tags": ["git", "pr", "documentation"]},
+        {"id": "test-generator", "name": "Test Generator", "description": "Generate comprehensive unit tests", "tags": ["testing", "unit-tests", "coverage"]},
+        {"id": "dep-checker", "name": "Dependency Checker", "description": "Audit dependencies for updates and vulnerabilities", "tags": ["dependencies", "security", "audit"]},
+        {"id": "changelog", "name": "Changelog", "description": "Generate changelogs from git history", "tags": ["changelog", "release", "git"]}
+      ]
+    },
+    {
+      "id": "data",
+      "name": "Data & Analytics",
+      "icon": "📊",
+      "skills": [
+        {"id": "csv-analyzer", "name": "CSV Analyzer", "description": "Analyze CSV files and generate insights", "tags": ["data", "csv", "analysis"]},
+        {"id": "api-tester", "name": "API Tester", "description": "Test REST APIs and validate responses", "tags": ["api", "testing", "rest"]},
+        {"id": "log-analyzer", "name": "Log Analyzer", "description": "Parse logs and identify errors and anomalies", "tags": ["logs", "monitoring", "debugging"]}
+      ]
+    },
+    {
+      "id": "devops",
+      "name": "DevOps",
+      "icon": "🔧",
+      "skills": [
+        {"id": "health-checker", "name": "Health Checker", "description": "Monitor service health and SSL certificates", "tags": ["monitoring", "health", "uptime"]},
+        {"id": "cert-watcher", "name": "Cert Watcher", "description": "Track SSL certificate expiry dates", "tags": ["ssl", "certificates", "security"]},
+        {"id": "docker-cleanup", "name": "Docker Cleanup", "description": "Analyze Docker disk usage and generate cleanup scripts", "tags": ["docker", "cleanup", "disk"]}
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "icon": "🎨",
+      "skills": [
+        {"id": "frontend-design", "name": "Frontend Design", "description": "Create distinctive, production-grade UI components", "tags": ["frontend", "design", "css"]},
+        {"id": "landing-page", "name": "Landing Page", "description": "Generate high-converting landing pages", "tags": ["landing", "marketing", "html"]}
+      ]
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "icon": "🤖",
+      "skills": [
+        {"id": "browser-use", "name": "Browser Automation", "description": "Automate browser tasks with browser-use CLI", "tags": ["browser", "automation", "scraping"]},
+        {"id": "web-scraper", "name": "Web Scraper", "description": "Extract structured data from websites", "tags": ["scraping", "data", "web"]},
+        {"id": "email-digest", "name": "Email Digest", "description": "Generate formatted email digests", "tags": ["email", "digest", "html"]}
+      ]
+    }
+  ]
+}
